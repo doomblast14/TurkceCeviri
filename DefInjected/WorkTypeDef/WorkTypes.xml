@@ -2,10 +2,10 @@
 <!--suppress ALL -->
 <LanguageData>
 	
-	<Diplomat.labelShort>Negotiate</Diplomat.labelShort>
+	<Diplomat.labelShort>Pazarlık</Diplomat.labelShort>
 	<Diplomat.pawnLabel>Diplomat</Diplomat.pawnLabel>
-	<Diplomat.gerundLabel>Negotiating</Diplomat.gerundLabel>
-	<Diplomat.description>Diplomats entertain guests and recruit new colonists.</Diplomat.description>
-	<Diplomat.verb>Handle</Diplomat.verb>
+	<Diplomat.gerundLabel>Müzakere</Diplomat.gerundLabel>
+	<Diplomat.description>Diplomatlar ziyaretçileri ağırlar ve yeni kolonistleri ise alir.</Diplomat.description>
+	<Diplomat.verb>Idare etmek</Diplomat.verb>
 
 </LanguageData>
