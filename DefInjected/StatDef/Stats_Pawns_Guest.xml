@@ -5,7 +5,7 @@
 	<PleaseGuestChance.label>Diplomasi Becerisi</PleaseGuestChance.label>
 	<PleaseGuestChance.description>Bu kisinin bir ziyaretci fikrini iyilestirmesi için temel sans.</PleaseGuestChance.description>
 
-	<RecruitRelationshipDamage.label>Ise alirken iliski zedelendi.</RecruitRelationshipDamage.label>
+	<RecruitRelationshipDamage.label>Ise alirken iliski zedelenmesi.</RecruitRelationshipDamage.label>
 	<RecruitRelationshipDamage.description>Başarılı bir şekilde işe alım sırasında bu kişinin klaniyla olan ilişkiye verilen hasar.</RecruitRelationshipDamage.description>
 
 </LanguageData>
