@@ -2,7 +2,7 @@
 <!--suppress ALL -->
 <LanguageData>
 	
-	<PleaseGuestChance.label>diplomacy skill</PleaseGuestChance.label>
+	<PleaseGuestChance.label>Diplomasi Becerisi</PleaseGuestChance.label>
 	<PleaseGuestChance.description>Base chance this person will have to improve a guest's opinion.</PleaseGuestChance.description>
 
 	<RecruitRelationshipDamage.label>recruit relationship damage</RecruitRelationshipDamage.label>
