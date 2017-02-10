@@ -2,7 +2,7 @@
 <!--suppress ALL -->
 <LanguageData>
 	
-	<GuestBed.label>guest bed</GuestBed.label>
-	<GuestBed.Description>A place for guests to sleep during their stay.</GuestBed.Description>
+	<GuestBed.label>ziyaretci yatagi</GuestBed.label>
+	<GuestBed.Description>Kaldiklari surece ziyaretciler icin uyumak icin bir yer.</GuestBed.Description>
 
 </LanguageData>
