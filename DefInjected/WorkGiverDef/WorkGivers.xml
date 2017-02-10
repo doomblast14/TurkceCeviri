@@ -2,12 +2,12 @@
 <!--suppress ALL -->
 <LanguageData>
 	
-	<Recruiter.label>recruit visitors and prisoners</Recruiter.label>
-	<Recruiter.verb>recruit</Recruiter.verb>
-	<Recruiter.gerund>recruiting</Recruiter.gerund>
+	<Recruiter.label>Ziyaretcileri ve mahkumlari ise alma</Recruiter.label>
+	<Recruiter.verb>Ise alma</Recruiter.verb>
+	<Recruiter.gerund>Ise alım</Recruiter.gerund>
 
-	<Diplomat.label>entertain guests</Diplomat.label>
-	<Diplomat.verb>engage</Diplomat.verb>
-	<Diplomat.gerund>engaging</Diplomat.gerund>
+	<Diplomat.label>Ziyaretcileri ağırlama</Diplomat.label>
+	<Diplomat.verb>Ise almak</Diplomat.verb>
+	<Diplomat.gerund>Cekici</Diplomat.gerund>
 
 </LanguageData>
