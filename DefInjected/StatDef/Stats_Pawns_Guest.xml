@@ -3,9 +3,9 @@
 <LanguageData>
 	
 	<PleaseGuestChance.label>Diplomasi Becerisi</PleaseGuestChance.label>
-	<PleaseGuestChance.description>Base chance this person will have to improve a guest's opinion.</PleaseGuestChance.description>
+	<PleaseGuestChance.description>Bu kisinin bir ziyaretci fikrini iyilestirmesi için temel sans.</PleaseGuestChance.description>
 
-	<RecruitRelationshipDamage.label>recruit relationship damage</RecruitRelationshipDamage.label>
-	<RecruitRelationshipDamage.description>The damage done to the relationship with the faction of this person when successfully recruiting.</RecruitRelationshipDamage.description>
+	<RecruitRelationshipDamage.label>Ise alirken iliski zedelendi.</RecruitRelationshipDamage.label>
+	<RecruitRelationshipDamage.description>Başarılı bir şekilde işe alım sırasında bu kişinin klaniyla olan ilişkiye verilen hasar.</RecruitRelationshipDamage.description>
 
 </LanguageData>
