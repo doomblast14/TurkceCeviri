@@ -2,9 +2,9 @@
 <!--suppress ALL -->
 <LanguageData>
 	
-	<CharmGuest.reportString>Trying to get TargetA to stay at the colony.</CharmGuest.reportString>
-	<GuestImproveRelationship.reportString>Trying to improve relationship with TargetA's faction.</GuestImproveRelationship.reportString>
-	<BuyItem.reportString>Checking out TargetA.</BuyItem.reportString>
-	<BrowseItems.reportString>Checking out TargetA.</BrowseItems.reportString>
+	<CharmGuest.reportString>HedefA'yi kolonisinde kalmasi icin almaya calismak</CharmGuest.reportString>
+	<GuestImproveRelationship.reportString>HedefA'nin klaniyla iliskileri iyilestirmeye calismak.</GuestImproveRelationship.reportString>
+	<BuyItem.reportString>HedefA'yi kontrol etmek.</BuyItem.reportString>
+	<BrowseItems.reportString>HedefA'yi kontrol etmek.</BrowseItems.reportString>
 
 </LanguageData>
